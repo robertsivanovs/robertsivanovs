@@ -14,7 +14,7 @@
 ![MariaDB](https://camo.githubusercontent.com/4996bb8dfb9162d7d4ad0f894051395f7ed62545bdb630f3a68152ba8a8ee3a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666c61742d737175617265266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465 "MariaDB")
 
 
-I am a WEB Developer with a passion for Vue.js, React.js, Laravel, RDBMS, TailwindCSS and System Architecture. 
+I am a WEB Developer with experience and passion for Magento, Shopify, Vue.js, React.js, Laravel, RDBMS, TailwindCSS and System Architecture. 
 
 ⚡ Fun fact: One of my projects was presented on the local news once 😄
 
